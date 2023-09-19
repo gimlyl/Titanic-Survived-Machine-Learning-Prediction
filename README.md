@@ -5,7 +5,7 @@ The sinking of the Titanic is one of the most famous incidents. This notebook ai
 Sections:
 ### **Import Dataset**:
 
-Importing the Titanic dataset.
+Importing the Titanic dataset from seaborn library.
 ### Data Cleaning:
 
 Cleansing the dataset to make it suitable for modeling.
