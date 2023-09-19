@@ -6,18 +6,18 @@ Sections:
 ### **Import Dataset**:
 
 Importing the Titanic dataset.
-### **Data Cleaning**:
+### Data Cleaning:
 
 Cleansing the dataset to make it suitable for modeling.
-### **Data Anomalies**:
+### Data Anomalies:
 
 Checking the dataset for any anomalies.
-### **Train Test Split**:
+### Train Test Split:
 
 Splits the dataset into training and testing sets.
-### **Machine Learning Modeling**:
+### Machine Learning Modeling:
 
 Training various machine learning models on the dataset.
-### **Conclusion**:
+### Conclusion:
 
 The Decision Tree model emerged as the best performing model with an accuracy of 86% and a precision of 84%.
